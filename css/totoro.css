@@ -1,0 +1,73 @@
+header{
+	font-family: fantasy;
+	margin: 0;
+}
+
+body{
+	font-family: serif;
+	margin: 0;
+	background-color: #82F8E1;
+	color: hotpink;
+}
+
+header{
+	background-image: url(http://www.wallpapermaiden.com/image/2016/06/22/totoro-village-painting-mountain-statue-anime-1521.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+	padding: 40px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+	color: #ffffff;
+}
+
+h2 {
+	font-family: fantasy;
+	font-size: 30px;
+	color: #A49551;
+}
+
+header img{
+	border-radius: 200px;
+	width: 200px;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px
+}
+
+img.big-image{
+	max-width: 100%;}
+
+p.caption{
+	font-style:italic;
+	color: #A49551;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: hotpink;
+	text-decoration: none;
+}
+
+footer{
+	padding: 40px 20px;
+}
+
+footer ul{
+	text-align: left;
+}
+
+footer ul li{
+	display: inline;
+	margin: 0 5px;
+}
